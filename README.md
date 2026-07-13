@@ -2,6 +2,12 @@
 
 ## QA Engineer
 
+🌐 Контакты
+
+🔗 [Резюме на HH.ru](https://krasnodar.hh.ru/resume/8a2e8070ff024ebdd90039ed1f35627849444f)  
+🔗 [LinkedIn](твоя_ссылка)
+
+
 ---
 
 ## 👨‍💻 Обо мне
@@ -24,8 +30,8 @@
 - API-тестирования в Postman;
 - работы с SOAP API;
 - тестирования мобильного приложения.
-🔗 Репозиторий с тестовой документацией:
-https://github.com/AlexandrVoloshin/QA-portfolio
+
+[QA Portfolio — тестовая документация](https://github.com/AlexandrVoloshin/QA-portfolio)
 ---
 
 ## 📋 Тестовая документация
