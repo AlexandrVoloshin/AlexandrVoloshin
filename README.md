@@ -24,6 +24,8 @@
 - API-тестирования в Postman;
 - работы с SOAP API;
 - тестирования мобильного приложения.
+🔗 Репозиторий с тестовой документацией:
+https://github.com/AlexandrVoloshin/QA-portfolio
 ---
 
 ## 📋 Тестовая документация
@@ -71,7 +73,7 @@
 
 ---
 
-## 📱 Мобильныое тестирование
+## 📱 Мобильное тестирование
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>&nbsp;
