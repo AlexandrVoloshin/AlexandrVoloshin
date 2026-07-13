@@ -5,7 +5,6 @@
 🌐 Контакты
 
 🔗 [Резюме на HH.ru](https://krasnodar.hh.ru/resume/8a2e8070ff024ebdd90039ed1f35627849444f)  
-🔗 [LinkedIn](твоя_ссылка)
 
 
 ---
