@@ -4,8 +4,11 @@
 
 🌐 Контакты
 
-🔗 [Резюме на HH.ru](https://krasnodar.hh.ru/resume/8a2e8070ff024ebdd90039ed1f35627849444f)  
+🔗 [Резюме на HH.ru](https://krasnodar.hh.ru/resume/8a2e8070ff024ebdd90039ed1f35627849444f)
 
+💼 [LinkedIn](https://www.linkedin.com/in/alexandr-voloshin-qa)
+
+📧 Email: dessembri@gmail.com
 
 ---
 
